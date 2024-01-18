@@ -1,4 +1,6 @@
-### Hi there 👋
+🌐 National Security Analyst | 🎓 Professor
+
+I am always open to collaboration and welcome discussions on topics related to national security and academia. Feel free to reach out for joint research projects, speaking engagements, or simply to connect!
 
 <!--
 **cpodlasinski/cpodlasinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
